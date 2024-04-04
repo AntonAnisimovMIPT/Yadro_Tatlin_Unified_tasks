@@ -1,0 +1,29 @@
+[==========] Running 10 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 10 tests from VariousNumElements/ExternalSortTest
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/0
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/0 (36 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/1
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/1 (58 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/2
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/2 (56 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/3
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/3 (78 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/4
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/4 (68 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/5
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/5 (112 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/6
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/6 (220 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/7
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/7 (3112 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/8
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/8 (633 ms)
+[ RUN      ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/9
+[       OK ] VariousNumElements/ExternalSortTest.SortingViaExternalCommand/9 (1593 ms)
+[----------] 10 tests from VariousNumElements/ExternalSortTest (5973 ms total)
+
+[----------] Global test environment tear-down
+[==========] 10 tests from 1 test suite ran. (5973 ms total)
+[  PASSED  ] 10 tests.
+
